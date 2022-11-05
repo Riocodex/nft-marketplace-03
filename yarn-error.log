@@ -1,0 +1,43 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Onwuka Rosario\.node\corepack\yarn\1.22.19\bin\yarn.js
+
+PATH: 
+  C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\MinGW\bin;C:\Users\Onwuka Rosario\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Onwuka Rosario\AppData\Local\Programs\Python\Python39\;C:\Users\Onwuka Rosario\AppData\Local\Microsoft\WindowsApps;C:\Users\Onwuka Rosario\AppData\Local\atom\bin;C:\Program Files\JetBrains\PyCharm 2021.1.2\bin;;C:\Users\Onwuka Rosario\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Onwuka Rosario\AppData\Roaming\npm;C:\MinGW\bin;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "Projects",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+      "@nomiclabs/hardhat-ethers": "^2.1.1",
+      "@nomiclabs/hardhat-waffle": "^2.0.3",
+      "chai": "^4.3.6",
+      "ethereum-waffle": "^3.4.4",
+      "ethers": "^5.7.0",
+      "hardhat": "^2.11.1"
+    },
+    "dependencies": {
+      "dotenv": "^16.0.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
