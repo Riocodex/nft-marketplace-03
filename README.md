@@ -5,7 +5,7 @@ This project is not minimalistic it will basically have all the features of open
 # The Project features include:
 
 ```shell
-npx hardhat accounts
+1) Listing NFts
 npx hardhat compile
 npx hardhat clean
 npx hardhat test
