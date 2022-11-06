@@ -2,7 +2,7 @@
 
 This project is not minimalistic it will basically have all the features of opensea and have a dashing beautiful front end design.I love building nft marketplaces cause i keep feeling i can do better i love NFTS
 
-Try running some of the following tasks:
+# The Project features include:
 
 ```shell
 npx hardhat accounts
