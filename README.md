@@ -6,8 +6,8 @@ This project is not minimalistic it will basically have all the features of open
 
 ```shell
 1) Listing NFts
-npx hardhat compile
-npx hardhat clean
+2) buying NFTS
+3)
 npx hardhat test
 npx hardhat node
 node scripts/sample-script.js
