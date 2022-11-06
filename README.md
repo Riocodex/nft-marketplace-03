@@ -7,7 +7,7 @@ This project is not minimalistic it will basically have all the features of open
 ```shell
 1) Listing NFts
 2) buying NFTS
-3)
+3) withdrawing money from bought nfts
 npx hardhat test
 npx hardhat node
 node scripts/sample-script.js
