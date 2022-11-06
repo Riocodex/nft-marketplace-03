@@ -9,6 +9,7 @@ This project is not minimalistic it will basically have all the features of open
 2) buying NFTS
 3) withdrawing money from bought nfts
 4) collections
+5) cancelling listing
 npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
