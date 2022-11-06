@@ -1,6 +1,6 @@
 # Project Specifications and features
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is not minimalistic it will basically have all the features of opensea and have a dashing beautiful front end design.I love building nft marketplaces cause i keep feeling i can do better i love NFTS
 
 Try running some of the following tasks:
 
