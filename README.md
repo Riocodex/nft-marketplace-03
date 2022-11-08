@@ -11,7 +11,5 @@ This project is not minimalistic it will basically have all the features of open
 4) collections
 5) cancelling listing
 6) update listing
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+
 ```
